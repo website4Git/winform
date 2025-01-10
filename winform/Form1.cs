@@ -6,5 +6,10 @@ namespace winform
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "歡迎使用Windows應用程式";
+        }
     }
 }

@@ -1,0 +1,16 @@
+D:\repos\winform\winform\bin\Debug\net7.0-windows\winform.exe
+D:\repos\winform\winform\bin\Debug\net7.0-windows\winform.deps.json
+D:\repos\winform\winform\bin\Debug\net7.0-windows\winform.runtimeconfig.json
+D:\repos\winform\winform\bin\Debug\net7.0-windows\winform.dll
+D:\repos\winform\winform\bin\Debug\net7.0-windows\winform.pdb
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.Form1.resources
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.csproj.GenerateResource.cache
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.AssemblyInfoInputs.cache
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.AssemblyInfo.cs
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.csproj.CoreCompileInputs.cache
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.dll
+D:\repos\winform\winform\obj\Debug\net7.0-windows\refint\winform.dll
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.pdb
+D:\repos\winform\winform\obj\Debug\net7.0-windows\winform.genruntimeconfig.cache
+D:\repos\winform\winform\obj\Debug\net7.0-windows\ref\winform.dll

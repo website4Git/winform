@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\winform"
   ],
-  "SelectedNode": "\\D:\\repos\\winform",
+  "SelectedNode": "\\winform\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
