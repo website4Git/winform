@@ -9,7 +9,7 @@ namespace winform
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "歡迎使用Windows應用程式";
+            label1.Text = "歡迎使用Windows應用程式-v2.0";
         }
     }
 }
